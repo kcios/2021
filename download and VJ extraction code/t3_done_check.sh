@@ -1,0 +1,1 @@
+grep -rnw . -A1 -B2 -e 'Done Aligning'
